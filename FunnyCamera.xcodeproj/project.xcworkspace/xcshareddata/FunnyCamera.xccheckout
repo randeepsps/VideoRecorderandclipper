@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8EC4DE4F-D6E1-4221-9A6F-0328B431C321</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FunnyCamera</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5246C2FEB1838A2DC5551193FE2D603850D5780E</key>
+		<string>https://github.com/randeepsps/FunnyCamera.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FunnyCamera.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5246C2FEB1838A2DC5551193FE2D603850D5780E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/randeepsps/FunnyCamera.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5246C2FEB1838A2DC5551193FE2D603850D5780E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5246C2FEB1838A2DC5551193FE2D603850D5780E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FunnyCamera</string>
+		</dict>
+	</array>
+</dict>
+</plist>
